@@ -125,7 +125,7 @@
         <dependency>
             <groupId>com.github.Slimefun</groupId>
             <artifactId>Slimefun4</artifactId>
-            <version>RC-28</version>
+            <version>e02a0f6</version>
             <scope>provided</scope>
         </dependency>
         <dependency>
